@@ -1,0 +1,15 @@
+C:\Users\Kostiantyn\Documents\Visual Studio 2015\Projects\ExcelWorkbook4\bin\Debug\ExcelWorkbook4.dll
+C:\Users\Kostiantyn\Documents\Visual Studio 2015\Projects\ExcelWorkbook4\bin\Debug\ExcelWorkbook4.pdb
+C:\Users\Kostiantyn\Documents\Visual Studio 2015\Projects\ExcelWorkbook4\bin\Debug\ExcelWorkbook4.dll.manifest
+C:\Users\Kostiantyn\Documents\Visual Studio 2015\Projects\ExcelWorkbook4\bin\Debug\ExcelWorkbook4.vsto
+C:\Users\Kostiantyn\Documents\Visual Studio 2015\Projects\ExcelWorkbook4\bin\Debug\ExcelWorkbook4.xlsx
+C:\Users\Kostiantyn\Documents\Visual Studio 2015\Projects\ExcelWorkbook4\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Kostiantyn\Documents\Visual Studio 2015\Projects\ExcelWorkbook4\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\Kostiantyn\Documents\Visual Studio 2015\Projects\ExcelWorkbook4\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Kostiantyn\Documents\Visual Studio 2015\Projects\ExcelWorkbook4\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\Kostiantyn\Documents\Visual Studio 2015\Projects\ExcelWorkbook4\obj\Debug\ExcelWorkbook4.csprojResolveAssemblyReference.cache
+C:\Users\Kostiantyn\Documents\Visual Studio 2015\Projects\ExcelWorkbook4\obj\Debug\ExcelWorkbook4.Properties.Resources.resources
+C:\Users\Kostiantyn\Documents\Visual Studio 2015\Projects\ExcelWorkbook4\obj\Debug\ExcelWorkbook4.Ribbon1.resources
+C:\Users\Kostiantyn\Documents\Visual Studio 2015\Projects\ExcelWorkbook4\obj\Debug\ExcelWorkbook4.csproj.GenerateResource.Cache
+C:\Users\Kostiantyn\Documents\Visual Studio 2015\Projects\ExcelWorkbook4\obj\Debug\ExcelWorkbook4.dll
+C:\Users\Kostiantyn\Documents\Visual Studio 2015\Projects\ExcelWorkbook4\obj\Debug\ExcelWorkbook4.pdb
